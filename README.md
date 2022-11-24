@@ -42,6 +42,9 @@ The work needs to be sent as an archive to Romas or Tadas via Teams private mess
 
 ---
 
+# Tip
+Use the techniques we have already discussed during the course. That will be huge ➕! 👍
+
 # Cheatsheet
 
 <br><br>
