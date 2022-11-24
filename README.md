@@ -38,7 +38,7 @@ Keyboard should be without auto-correct and auto-capitalisation (you can select 
 For this assignment, we will basically only check if all functionality is fulfilled. We will give you comments about all the other things that are not mandatory for this task, but we will not take them into account when giving you a grade
 
 # Deadline
-The work needs to be sent as an archive to Romas or Tadas via Teams private message until 2022-12-05
+The work needs to be sent as an archive to Romas or Tadas via Teams private message until 2022-12-06 (Tuesday 00:00)
 
 ---
 
